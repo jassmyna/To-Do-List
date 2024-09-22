@@ -12,7 +12,7 @@ Welcome to the To Do List App! This project marks my first venture into JavaScri
 ## Getting Started
 To get started with the To Do List App, simply clone the repository and open the HTML file in your preferred web browser. You’ll be ready to start organizing your tasks in no time!
 
-##Contributions
+## Contributions
 Courses from GreatStack on YouTube.
 
 ## License
